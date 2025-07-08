@@ -1,0 +1,886 @@
+[2025-04-24 14:49:08] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 14:49:09] INFO in run: GET /favicon.ico from 127.0.0.1
+[2025-04-24 14:49:19] INFO in run: GET /api/products from 127.0.0.1
+[2025-04-24 14:49:19] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 14:53:09] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 14:54:40] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:00:54] INFO in run: DELETE /api/products/<1> from 127.0.0.1
+[2025-04-24 15:03:13] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 15:03:48] INFO in run: DELETE /api/products/1 from 127.0.0.1
+[2025-04-24 15:06:21] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:06:21] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:06:28] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:06:28] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:09:00] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:09:00] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:10:04] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:10:04] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:16:04] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:16:04] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:16:05] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:16:05] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:16:07] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:16:07] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:16:08] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:16:08] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:16:09] INFO in run: POST /api/products from 127.0.0.1
+[2025-04-24 15:16:09] INFO in run: POST /api/products/ from 127.0.0.1
+[2025-04-24 15:24:25] INFO in run: PUT /api/stock/1 from 127.0.0.1
+[2025-04-24 15:25:00] INFO in run: PUT /api/stock/1 from 127.0.0.1
+[2025-04-24 15:25:31] INFO in run: PUT /api/stock/1 from 127.0.0.1
+[2025-04-24 16:39:16] INFO in run: GET /api/products from 127.0.0.1
+[2025-04-24 16:39:16] INFO in run: GET /api/alerts from 127.0.0.1
+[2025-04-24 16:39:16] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:39:16] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:40:27] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:40:27] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:40:27] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:40:27] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:40:35] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:40:35] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:40:35] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:40:36] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:40:37] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:40:38] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:40:38] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:40:38] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:41:17] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:41:17] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 16:41:17] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 16:41:17] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 17:05:35] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 17:05:35] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 17:05:35] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 17:05:35] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 17:07:42] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 17:07:42] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 17:07:42] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 17:07:42] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:42:53] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 22:42:53] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:42:54] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 22:42:54] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:45:13] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 22:45:13] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:45:13] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 22:45:13] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:48:13] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 22:48:13] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:48:13] INFO in run: GET /api/products/ from 127.0.0.1
+[2025-04-24 22:48:13] INFO in run: GET /api/alerts/ from 127.0.0.1
+[2025-04-24 22:51:58] INFO in run: OPTIONS /api/products from 127.0.0.1
+[2025-04-24 22:55:54] INFO in run: OPTIONS /api/products from 127.0.0.1
+[2025-04-24 23:05:46] INFO in run: OPTIONS /api/products from 127.0.0.1
+[2025-04-24 23:07:01] INFO in run: OPTIONS /api/products from 127.0.0.1
+[2025-04-24 23:09:08] INFO in run: OPTIONS /api/products from 127.0.0.1
+[2025-06-07 12:42:10] INFO in run: [LOG] Logging configured successfully.
+[2025-06-07 12:42:10] INFO in run: [SERVER] Starting Flask development server on http://localhost:5000
+[2025-06-07 12:47:50] INFO in run: [LOG] Logging configured successfully.
+[2025-06-07 12:47:50] INFO in run: [SERVER] Starting Flask development server on http://localhost:5000
+[2025-06-07 12:53:39] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 13:01:15] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 13:01:15] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 13:01:31] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 13:01:31] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 13:07:24] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 13:07:24] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 13:07:25] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 13:07:25] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 13:07:30] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 13:17:14] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 13:17:14] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 13:18:30] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 13:26:03] INFO in run: [LOG] Logging configured successfully.
+[2025-06-07 13:26:03] INFO in run: [SERVER] Starting Flask development server on http://localhost:5000
+[2025-06-07 13:27:35] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 13:27:35] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 13:27:36] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 13:27:36] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 13:27:36] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 13:27:36] INFO in run: [REQUEST] GET /api/audit-logs from 127.0.0.1
+[2025-06-07 13:27:36] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 13:27:37] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 13:27:37] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 13:43:56] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 13:43:57] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 13:43:58] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 13:43:58] INFO in run: [REQUEST] GET /api/dashboard/stock-overview from 127.0.0.1
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] INFO in run: [REQUEST] GET /api/dashboard/top-selling from 127.0.0.1
+[2025-06-07 13:43:58] INFO in run: [REQUEST] GET /api/dashboard/low-stock from 127.0.0.1
+[2025-06-07 13:43:58] INFO in run: [REQUEST] GET /api/dashboard/audit-logs from 127.0.0.1
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] INFO in run: [REQUEST] GET /api/dashboard/stock-overview from 127.0.0.1
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:59] INFO in run: [REQUEST] GET /api/dashboard/top-selling from 127.0.0.1
+[2025-06-07 13:43:59] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:59] INFO in run: [REQUEST] GET /api/dashboard/low-stock from 127.0.0.1
+[2025-06-07 13:43:59] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:59] INFO in run: [REQUEST] GET /api/dashboard/audit-logs from 127.0.0.1
+[2025-06-07 13:43:59] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] INFO in run: [REQUEST] GET /api/dashboard/stock-overview from 127.0.0.1
+[2025-06-07 13:46:16] INFO in run: [REQUEST] GET /api/dashboard/top-selling from 127.0.0.1
+[2025-06-07 13:46:16] INFO in run: [REQUEST] GET /api/dashboard/low-stock from 127.0.0.1
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] INFO in run: [REQUEST] GET /api/dashboard/audit-logs from 127.0.0.1
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:47:48] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 13:47:49] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 13:47:49] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 13:50:50] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 13:50:51] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 13:50:51] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:07:40] INFO in run: [REQUEST] GET /api/user/profile from 127.0.0.1
+[2025-06-07 14:07:40] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:49] INFO in run: [REQUEST] GET /api/user/profile from 127.0.0.1
+[2025-06-07 14:07:49] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:51] INFO in run: [REQUEST] GET /api/user/profile from 127.0.0.1
+[2025-06-07 14:07:51] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:52] INFO in run: [REQUEST] GET /api/user/profile from 127.0.0.1
+[2025-06-07 14:07:52] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:13:00] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:13:01] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:13:01] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:18:04] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 14:18:04] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 14:18:04] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:18:05] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:18:05] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:18:05] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:18:05] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:18:05] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:30:28] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:30:29] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:30:29] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:30:37] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:30:37] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 14:30:37] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:30:37] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:30:38] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 14:30:38] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 14:30:39] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:30:39] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:30:39] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:30:39] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:30:39] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:30:40] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:57:01] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:57:01] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 14:57:02] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 14:57:02] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 14:57:02] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:57:02] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 14:57:02] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:57:03] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:57:03] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 14:57:03] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 14:57:15] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 14:57:16] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 14:59:56] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 14:59:57] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 14:59:57] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 14:59:57] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:00:00] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:01] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:00:03] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:03] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:03] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:00:12] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:12] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:12] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:00:13] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:00:13] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:00:13] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:00:13] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:00:15] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:15] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:00:15] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:00:15] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:00:15] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:00:16] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:00:17] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:00:17] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:00:17] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:00:17] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:03:37] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:37] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:37] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:38] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:38] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:38] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:03:38] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:03:38] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 15:03:39] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:40] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:40] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:41] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:41] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:41] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:45] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:45] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:45] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:45] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:47] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:47] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:47] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:47] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:47] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:03:48] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:49] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:49] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:49] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:03:49] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:50] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:03:50] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:03:50] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:07:07] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:08] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:08] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:08] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:07:08] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:08] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:07:12] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:12] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:12] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:07:12] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:13] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:13] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:13] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:14] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:07:14] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:14] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:07:14] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:15] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:15] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:07:15] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:07:16] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:07:16] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:30:56] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:30:56] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:30:56] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:30:56] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:30:56] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:30:56] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:30:57] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:30:57] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 15:31:29] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:31:29] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:31:29] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:31:30] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:31:30] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:31:31] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:31:31] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:31:31] INFO in run: [REQUEST] GET / from 127.0.0.1
+[2025-06-07 15:31:31] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:31:31] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:58:14] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 15:58:14] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 15:58:14] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:58:15] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 15:58:15] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:58:15] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 15:58:15] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 15:58:15] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 16:54:02] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 16:54:02] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 16:54:06] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 16:54:06] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 16:54:16] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 16:54:21] INFO in run: [REQUEST] OPTIONS /api/sales/ from 127.0.0.1
+[2025-06-07 16:54:21] INFO in run: [REQUEST] POST /api/sales/ from 127.0.0.1
+[2025-06-07 16:54:26] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 16:54:39] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 16:54:39] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:07:01] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 17:07:01] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 17:10:05] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:10:05] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:10:14] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:10:22] INFO in run: [REQUEST] OPTIONS /api/sales/ from 127.0.0.1
+[2025-06-07 17:10:22] INFO in run: [REQUEST] POST /api/sales/ from 127.0.0.1
+[2025-06-07 17:10:26] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:10:33] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 17:10:33] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 17:10:40] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:10:41] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:10:51] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:11:01] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:11:11] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:11:21] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:11:31] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:11:41] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:11:51] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:12:01] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:12:11] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:13:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:14:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:15:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:16:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:17:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:19:07] INFO in run: [LOG] Logging configured successfully.
+[2025-06-07 17:19:07] INFO in run: [SERVER] Starting Flask development server on http://localhost:5000
+[2025-06-07 17:19:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:20:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:21:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:22:08] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:22:20] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:22:20] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 17:22:25] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 17:22:25] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:05] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-07 19:00:05] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-07 19:00:06] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:06] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:06] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 19:00:06] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 19:00:06] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 19:00:06] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 19:00:09] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:09] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:16] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:17] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:20] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:20] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:00:20] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 19:00:20] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 19:00:20] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-07 19:00:21] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-07 19:00:25] INFO in run: [REQUEST] GET /api/reports/summary from 127.0.0.1
+[2025-06-07 19:00:26] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 19:00:26] INFO in run: [REQUEST] GET /api/reports/summary from 127.0.0.1
+[2025-06-07 19:00:26] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-07 19:54:20] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-07 19:54:20] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-12 12:26:23] INFO in run: [LOG] Logging configured successfully.
+[2025-06-12 12:26:23] INFO in run: [SERVER] Starting Flask development server on http://localhost:5000
+[2025-06-12 12:27:45] INFO in run: [REQUEST] GET /api/analytics/restock-recommendations from 127.0.0.1
+[2025-06-12 12:27:52] INFO in run: [REQUEST] GET /api/analytics/restock-recommendations from 127.0.0.1
+[2025-06-12 12:27:52] INFO in run: [REQUEST] GET /api/analytics/low-stock-frequency from 127.0.0.1
+[2025-06-12 12:27:52] INFO in run: [REQUEST] GET /api/analytics/deadstock from 127.0.0.1
+[2025-06-12 12:27:52] INFO in run: [REQUEST] GET /api/analytics/restock-recommendations from 127.0.0.1
+[2025-06-12 12:27:52] INFO in run: [REQUEST] GET /api/analytics/low-stock-frequency from 127.0.0.1
+[2025-06-12 12:27:53] INFO in run: [REQUEST] GET /api/analytics/deadstock from 127.0.0.1
+[2025-06-12 12:28:08] INFO in run: [REQUEST] GET /api/reports/summary from 127.0.0.1
+[2025-06-12 12:28:09] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-12 12:28:09] INFO in run: [REQUEST] GET /api/reports/summary from 127.0.0.1
+[2025-06-12 12:28:09] INFO in run: [REQUEST] GET /api/products/ from 127.0.0.1
+[2025-06-12 12:28:14] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-12 12:28:15] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-12 12:28:18] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-12 12:28:18] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-12 12:31:23] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-12 15:16:14] INFO in run: [REQUEST] OPTIONS /api/auth/login from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] POST /api/auth/login from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] GET /api/analytics/trends from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] GET /api/alerts/ from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-12 15:16:15] INFO in run: [REQUEST] GET /api/audit-logs/ from 127.0.0.1
+[2025-06-18 15:23:17] INFO in run: [REQ] GET / (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/alerts/ (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/analytics/deadstock (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/analytics/low-stock-frequency (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/analytics/restock-recommendations (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/analytics/sales-heatmap (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/analytics/trends (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/audit-logs/ (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/auth/me (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:23:17] INFO in run: [REQ] GET /api/reports/excel (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/reports/logs (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/reports/pdf (127.0.0.1)
+[2025-06-18 15:23:18] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 118, in export_pdf
+    pdf.output(output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/reports/products (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/reports/summary (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/reports/zip (127.0.0.1)
+[2025-06-18 15:23:18] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 176, in export_zip
+    pdf.output(pdf_output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/smartshelf/deadstock (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/smartshelf/low-stock (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/smartshelf/sales-over-time (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /api/smartshelf/top-categories (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: [REQ] GET /health-check (127.0.0.1)
+[2025-06-18 15:23:18] INFO in run: Starting Flask on http://localhost:5000
+[2025-06-18 15:23:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:23:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:24:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:25:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:25:30] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:25:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: Logging configured
+[2025-06-18 15:25:49] INFO in run: [REQ] GET / (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/alerts/ (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/analytics/deadstock (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/analytics/low-stock-frequency (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/analytics/restock-recommendations (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/analytics/sales-heatmap (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/analytics/trends (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/audit-logs/ (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/auth/me (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/reports/excel (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/reports/logs (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/reports/pdf (127.0.0.1)
+[2025-06-18 15:25:49] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 118, in export_pdf
+    pdf.output(output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/reports/products (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/reports/summary (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/reports/zip (127.0.0.1)
+[2025-06-18 15:25:49] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 176, in export_zip
+    pdf.output(pdf_output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/smartshelf/deadstock (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/smartshelf/low-stock (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/smartshelf/sales-over-time (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /api/smartshelf/top-categories (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: [REQ] GET /health-check (127.0.0.1)
+[2025-06-18 15:25:49] INFO in run: Starting Flask on http://0.0.0.0:5000
+[2025-06-18 15:25:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:26:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:26:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:26:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:27:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:28:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:29:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:30:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:31:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:32:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:32:40] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:32:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:32:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:33:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:33:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:33:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:33:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:34:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:35:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:36:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:36:23] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:36:25] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:36:35] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:36:45] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:36:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:37:05] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:37:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:37:25] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:37:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:37:45] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:37:55] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:38:05] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:38:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:38:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:38:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:38:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:38:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:39:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:40:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:40:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:40:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:40:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:41:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:41:11] INFO in run: [REQ] OPTIONS /api/sales/ (127.0.0.1)
+[2025-06-18 15:41:12] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:41:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:41:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:41:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:41:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:41:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:42:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:42:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:42:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:42:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:42:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:42:57] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:43:07] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:43:17] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:43:27] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:43:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:43:47] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:43:57] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:44:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:44:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:44:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:44:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:44:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:44:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:45:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:45:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:45:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:45:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:45:46] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:45:56] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:06] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:16] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:26] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:36] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:47] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:46:52] INFO in run: [REQ] GET /api/auth/me (127.0.0.1)
+[2025-06-18 15:47:01] INFO in run: [REQ] OPTIONS /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:01] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:47:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:47:17] INFO in run: [REQ] OPTIONS /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:17] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:22] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:47:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:47:35] INFO in run: [REQ] OPTIONS /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:35] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:40] INFO in run: [REQ] OPTIONS /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:40] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:47:43] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:43] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 15:47:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:48:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:48:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:48:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:48:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:48:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:48:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:49:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:49:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:49:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:49:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:50:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:50:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:50:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:50:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:50:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:50:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:51:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:51:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:51:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:51:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:51:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:51:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:52:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:52:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:52:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:52:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:52:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:52:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:53:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:53:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:53:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:53:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:53:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:53:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:54:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:54:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:54:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:54:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:54:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:54:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:55:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:55:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:55:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:55:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:55:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:55:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:56:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:56:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:56:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:56:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:56:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:56:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:57:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:57:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:57:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:57:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:57:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:57:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:58:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:58:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:58:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:58:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:58:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:58:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:59:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:59:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:59:22] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:59:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:59:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 15:59:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:00:02] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:20:23] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:20:23] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:20:32] INFO in run: [REQ] OPTIONS /api/sales/ (127.0.0.1)
+[2025-06-18 16:20:33] INFO in run: [REQ] POST /api/sales/ (127.0.0.1)
+[2025-06-18 16:20:33] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:04] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:12] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:15] INFO in run: [REQ] GET /api/smartshelf/sales-over-time (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/top-categories (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/low-stock (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/deadstock (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/sales-over-time (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/top-categories (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/deadstock (127.0.0.1)
+[2025-06-18 16:21:16] INFO in run: [REQ] GET /api/smartshelf/low-stock (127.0.0.1)
+[2025-06-18 16:21:21] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:21] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:32] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:42] INFO in run: [REQ] GET /api/products/ (127.0.0.1)
+[2025-06-18 16:21:52] INFO in run: [REQ] GET /api/products/ (127.0.0.1)

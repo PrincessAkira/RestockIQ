@@ -1,0 +1,276 @@
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:58] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:59] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:59] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:43:59] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 13:46:16] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:40] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:49] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:51] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-07 14:07:52] ERROR in run: [ERROR] Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\jnthn\OneDrive\Desktop\Project Source Codes\ReStockIQ\shelfiq_backend\shelf_env\lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-18 15:23:18] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 118, in export_pdf
+    pdf.output(output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:23:18] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 176, in export_zip
+    pdf.output(pdf_output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:25:49] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 118, in export_pdf
+    pdf.output(output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
+[2025-06-18 15:25:49] ERROR in run: Unhandled exception
+Traceback (most recent call last):
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\app\routes\reports.py", line 176, in export_zip
+    pdf.output(pdf_output)
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1065, in output
+    self.close()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 246, in close
+    self._enddoc()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1636, in _enddoc
+    self._putpages()
+  File "C:\Users\princ\Desktop\RestockIQ\Backend\myenv\lib\site-packages\fpdf\fpdf.py", line 1170, in _putpages
+    p = self.pages[n].encode("latin1") if PY3K else self.pages[n]
+UnicodeEncodeError: 'latin-1' codec can't encode character '\U0001f4e6' in position 51: ordinal not in range(256)
